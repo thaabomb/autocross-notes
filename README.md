@@ -22,3 +22,6 @@ When walking the course, count the cones in the slaloms. Determine if they are e
 Keep it tight, always.
 
 Playback video at half speed or slower to make analysis easier.
+
+Even-cone slalom you enter and exit on opposite sides. odd-cone slalom you enter and exit on the same side.
+

@@ -6,5 +6,7 @@ You can slalom more aggresively than you think you can.
 
 # Notes from watching Evolution-Autocrosser on YouTube
 You must backside the slalom cones.
+
 Take a wide entry for hairpins.
+
 Mount your GoPro at the top center of the windshield, outside the car.

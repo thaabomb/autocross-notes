@@ -16,3 +16,5 @@ Take a wide entry for hairpins.
 Mount your GoPro at the top center of the windshield, outside the car.
 
 When walking the course, count the cones in the slaloms. Determine if they are equidistant, increasing-distance, or decreasing distance. For optional slaloms, determine which entrance direction will allow you to skip the last slalom cone.
+
+Keep it tight, always.

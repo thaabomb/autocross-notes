@@ -2,7 +2,7 @@
 The primary objective here is to become a faster autocross driver. I’m hoping these notes will help.
 
 # Notes from 2025-12-20 event
-You can slalom more aggresively than you think you can.
+You can slalom more aggresively than you realize.
 
 # Notes from watching Evolution-Autocrosser on YouTube
 You must backside the slalom cones.

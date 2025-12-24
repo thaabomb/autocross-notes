@@ -8,6 +8,8 @@ Don't DNF because you got lost. You must pay close attention to the course and c
 
 Check your times after every run. If you DNF'd, review your video to understand why.
 
+Having redundant video/data recording systems will allow you to capture the run even if one system fails.
+
 # Notes from watching Evolution-Autocrosser on YouTube
 You must backside the slalom cones.
 

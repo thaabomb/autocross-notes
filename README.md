@@ -42,3 +42,4 @@ slaloms, Chicago boxes, lane changes, sweepers, hairpins, offset cones, chutes, 
 
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.
 
+Do I need to switch to wider front tires to mitigate understeer?

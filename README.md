@@ -31,4 +31,5 @@ The course walk is necessary but not sufficient. The information you gain from y
 
 Look ahead at the next element or two or three. This can set you up for the next element and prevent DNFs.
 
- 
+Draw a map of the course. Print out a Google Maps capture of the area and bring it with you.
+

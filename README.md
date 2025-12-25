@@ -33,7 +33,7 @@ Look ahead at the next element or two or three. This can set you up for the next
 
 Draw a map of the course. Print out a Google Maps capture of the area and bring it with you.
 
-Chalk you tires to determine the correct pressure.
+Chalk your tires to determine the correct pressure.
 
-Every autocross course is different but they're typically made up of the same elements: slaloms, Chicago boxes, lane changes, sweepers, hairpins.
+Every autocross course is different but they're typically made up of the same elements: slaloms, Chicago boxes, lane changes, sweepers, hairpins, offset cones, chutes.
 

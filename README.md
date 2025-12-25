@@ -38,6 +38,10 @@ Chalk your tires to determine the correct pressure.
 Every autocross course is different but they're typically made up of the same elements:
 slaloms, Chicago boxes, lane changes, sweepers, hairpins, offset cones, chutes, gates.
 
+# Notes from watching SCCA videos on YouTube
+
+Your job as a novice autocross driver is to not get lost on course.
+
 # Thoughts
 
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.

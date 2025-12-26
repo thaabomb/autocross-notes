@@ -40,9 +40,15 @@ Be early with your inputs. Don't be late.
 Every autocross course is different but they're typically made up of the same elements:
 slaloms, Chicago boxes, lane changes, sweepers, hairpins, offset cones, chutes, gates.
 
+When you're in line waiting for your turn, you can be looking ahead to the first two or three elements of the course.
+
 # Notes from watching SCCA videos on YouTube
 
 Your job as a novice autocross driver is to not get lost on course.
+
+# Notes from watching GTheory-Coaching on YouTube
+
+Position over speed.
 
 # Thoughts
 

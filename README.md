@@ -51,6 +51,8 @@ Your job as a novice autocross driver is to not get lost on course.
 
 Position over speed.
 
+# Notes from reading Autocross to Win
+If you make more power than you can put down, the excess power is wasted. AWD is the most effective way to put power down. An AWD car with big power potential would make a fantastic autocross car. Bonus points if it has double wishbone suspension. This makes the Mitsubishi Eclipse / Eagle Talon TSi basically the perfect autocross car. Other exciting choices include: EVO, AWD CTR, NC1 NSX, Audis maybe?, Golf R, Huracán
 # Thoughts
 
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.

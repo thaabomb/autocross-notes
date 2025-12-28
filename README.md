@@ -61,3 +61,5 @@ BMWCCA, PCA, and NASA host autocross events too. Consider joining their events t
 
 Fast out is more important than fast in.
 
+The Apex Pro app wouldn't let me import data that was recorded by a different app.
+

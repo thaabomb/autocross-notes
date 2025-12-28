@@ -57,7 +57,7 @@ There are two driving paradigms that one might adopt: use the grippiest tires av
 
 Do I need to switch to wider front tires to mitigate understeer?
 
-BMWCCA and PCA both host autocross events too. Consider joining their events to get more runs in.
+BMWCCA,PCA, and NASA host autocross events too. Consider joining their events to get more runs in.
 
 Fast out is more important than fast in.
 

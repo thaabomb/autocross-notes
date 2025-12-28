@@ -56,3 +56,6 @@ If you make more power than you can put down, the excess power is wasted. AWD is
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.
 
 Do I need to switch to wider front tires to mitigate understeer?
+
+BMWCCA and PCA both host autocross events too. Consider joining their events to get more runs in.
+

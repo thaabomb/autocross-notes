@@ -38,6 +38,8 @@ Chalk your tires to determine the correct pressure.
 
 Be early with your inputs. Don't be late.
 
+Break sweepers down into entry, middle, and exit.
+ 
 Every autocross course is different but they're typically made up of the same elements:
 slaloms, Chicago boxes, lane changes, sweepers, hairpins, offset cones, chutes, gates.
 

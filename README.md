@@ -10,9 +10,9 @@ Check your times after every run. If you DNF'd, review your video to understand 
 
 Having redundant video/data recording systems will allow you to capture the run even if one system fails.
 
-The automatic start/stop feature of Harry's Laptimer failed me. I'm 99% confident that I set the start and stop markers correctly but Laptimer terminated the run early for every single run.
+The automatic start/stop feature of Harry's Laptimer failed me. I'm 99% confident that I set the start and stop markers correctly but Laptimer terminated the run early for every single run. I should first try using the manual start/stop mode and if that fails I should try a different app.
 
-I was on Hankook Ventus V12 Evo 2 tires. I expect the tires were close to the spec pressure but I did not meaure them. Wear patterns suggest that I needed to lower the pressures.
+I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires. I expect the tires were close to the spec pressure but I did not meaure them. Wear patterns suggest that I needed to lower the pressures.
 
 The morning session was cold (40s or 50s) but the afternoon session was warmer (60s or 70s).
 

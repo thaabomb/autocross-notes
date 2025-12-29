@@ -14,7 +14,7 @@ The automatic start/stop feature of Harry's Laptimer failed me. I'm 99% confiden
 
 I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires. I expect the tires were close to the spec pressure but I did not meaure them. Wear patterns suggest that I needed to lower the pressures.
 
-The morning session was cold (40s or 50s) but the afternoon session was warmer (60s or 70s).
+The morning session (runs 1-3) was cold (40s or 50s) but the afternoon session (runs 4-6) was warmer (60s or 70s).
 
 # Notes from watching Evolution-Autocrosser on YouTube
 You must backside the slalom cones.

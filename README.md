@@ -53,6 +53,8 @@ When you're in line waiting for your turn, you can be looking ahead to the first
 
 Hitting a cone is not that big a deal, especially if you're a novice. Leaving several feet of space between the car and the cone is worse than hitting a cone you were trying to backside.
 
+Pace off slalom cones during your course walks by counting the number of steps between cones.
+
 # Notes from watching SCCA videos on YouTube
 Your job as a novice autocross driver is to not get lost on course.
 

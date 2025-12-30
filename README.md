@@ -55,6 +55,8 @@ Hitting a cone is not that big a deal, especially if you're a novice. Leaving se
 
 Pace off slalom cones during your course walks by counting the number of steps between cones. Also pace off Chicago boxes, lane changes, offset cones, etc.
 
+You are going to have to make some mistakes in order to become a better driver. Hit some cones. Try new lines. Enter the slalom from the other side. Accelerate too much and DNF. I believe these things will help you learn how to find the limit.
+
 # Notes from watching SCCA videos on YouTube
 Your job as a novice autocross driver is to not get lost on course.
 

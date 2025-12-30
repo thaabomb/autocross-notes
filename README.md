@@ -16,6 +16,8 @@ I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires.
 
 The morning session (runs 1-3) was cold (40s or 50s) but the afternoon session (runs 4-6) was warmer (60s or 70s).
 
+I need to keep both hands on the wheel. I spent too much time with your right hand on the shifter.
+
 # Notes from watching Evolution-Autocrosser on YouTube
 You must backside the slalom cones.
 

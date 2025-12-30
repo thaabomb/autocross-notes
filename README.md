@@ -51,6 +51,8 @@ slaloms, Chicago boxes, lane changes, sweepers, hairpins, offset cones, chutes, 
 
 When you're in line waiting for your turn, you can be looking ahead to the first two or three elements of the course.
 
+Hitting a cone is not that big a deal, especially if you're a novice. Leaving several feet of space between the car and the cone is worse than hitting a cone you were trying to backside.
+
 # Notes from watching SCCA videos on YouTube
 Your job as a novice autocross driver is to not get lost on course.
 

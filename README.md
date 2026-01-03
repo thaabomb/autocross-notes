@@ -71,6 +71,8 @@ Let your tires talk to you. let the squealing help you find the grip limit.
 # Notes from reading _Autocross to Win_ by Dennis Grant
 If you make more power than you can put down, the excess power is wasted. AWD is the most effective way to put power down. An AWD car with big power potential would make a fantastic autocross car. Bonus points if it's lightweight and has double wishbone suspension. This makes the Mitsubishi Eclipse GSX / Eagle Talon TSi basically the perfect autocross car. Other exciting choices include: EVO, AWD CTR, NC1 NSX, Audis maybe?, Golf R, Huracán, 911 Turbo, Carrera4?, GTR, Tesla 3 Performance
 
+First step in suspension tuning should be to measure and model the current suspension. Adam should do this on the G35.
+
 # Notes from reading _How to Autocross_ by Andrew Howe
 Even though we don't often think of it this way, massive understeer equals losing co trol of the car.
 

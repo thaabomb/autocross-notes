@@ -73,6 +73,10 @@ If you make more power than you can put down, the excess power is wasted. AWD is
 
 First step in suspension tuning should be to measure and model the current suspension. Adam should do this on the G35. Put a big plastic sheet under the car and use a laser plumb bob to project suspension points on to the floor (assumes a level floor).
 
+Also corner weight the car.
+
+Also weigh the unsprung masses.
+
 # Notes from reading _How to Autocross_ by Andrew Howe
 Even though we don't often think of it this way, massive understeer equals losing co trol of the car.
 

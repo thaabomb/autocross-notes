@@ -77,6 +77,10 @@ Also corner weight the car.
 
 Also weigh the unsprung masses.
 
+Also buy a spring rate tester.
+
+Also buy needle bearings to sit between the springs and the spring perch.
+
 # Notes from reading _How to Autocross_ by Andrew Howe
 Even though we don't often think of it this way, massive understeer equals losing co trol of the car.
 

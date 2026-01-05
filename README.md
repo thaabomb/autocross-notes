@@ -111,6 +111,8 @@ Focus on positive thoughts, not negative thoughts. Reframe negative thoughts as 
 
 Don't dwell on mistakes. View them as learning opportunities.
 
+Don't focus on mistakes, focus on their solutions.
+
 Breathe. Relax.
 
 Practice good autocrossing habits on the street. Grip the wheel correctly. Look ahead. Smooth on the pedals. Identify turn-in, apex, and track out.

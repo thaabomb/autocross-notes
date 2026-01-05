@@ -105,6 +105,10 @@ A driver needs more of a plan than “I’m going to drive the slalom faster.”
 
 That’s the difference between mental imagery and visualization; mental imagery involves more than just your visual sense, and visualization doesn’t.
 
+Focus on positive thoughts, not negative thoughts. Reframe negative thoughts as positive thoughts.
+
+Don't dwell on mistakes. View them as learning opportunities.
+ 
 # Thoughts
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.
 

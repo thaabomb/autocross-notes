@@ -118,6 +118,8 @@ Breathe. Relax.
 Practice good autocrossing habits on the street. Grip the wheel correctly. Look ahead. Smooth on the pedals. Identify turn-in, apex, and track out.
 
 # Thoughts
+Don't forget to have fun.
+
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.
 
 Do I need to switch to wider front tires to mitigate understeer?

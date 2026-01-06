@@ -117,6 +117,11 @@ Breathe. Relax.
 
 Practice good autocrossing habits on the street. Grip the wheel correctly. Look ahead. Smooth on the pedals. Identify turn-in, apex, and track out.
 
+# Notes from reading _You Suck at Racing_ by Ian Korf
+If you see someone go off track (or of all you can see is the cloud of dust they kick up), don't just speed by them. Slow down to a safe speed, because it's likely that they will end up back on track and out of control.
+
+Watch videos of crashes from your local racetrack to learn what areas to watch out for.
+
 # Thoughts
 Don't forget to have fun.
 

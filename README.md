@@ -12,7 +12,7 @@ Having redundant video/data recording systems will allow you to capture the run 
 
 The automatic start/stop feature of Harry's Laptimer failed me. I'm 99% confident that I set the start and stop markers correctly but Laptimer terminated the run early for every single run. I should first try using the manual start/stop mode and if that fails I should try a different app.
 
-I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires. I expect the tires were close to the spec pressure but I did not meaure them. Wear patterns suggest that I needed to lower the pressures.
+I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires. I expect the tires were close to the spec pressure but I did not meaure them. Wear patterns suggest that I needed to lower the pressures. 245/40/ZR19 all the way around.
 
 The morning session (runs 1-3) was cold (40s or 50s) but the afternoon session (runs 4-6) was warmer (60s or 70s).
 
@@ -127,7 +127,7 @@ Don't forget to have fun.
 
 There are two driving paradigms that one might adopt: use the grippiest tires available to achieve the fastest time; or, use the least grippy tires available to lower the speed of the traction limit to help you learn. When employing the learning paradigm, don't compare your times to other people's times. Only compare them to your own times.
 
-Do I need to switch to wider front tires to mitigate understeer?
+Do I need to switch to wider front tires to mitigate understeer? Update: Eek! The tires are already in a square setup! 245/40/ZR19 all the way around!
 
 BMWCCA, PCA, NASA, and Summit Racing host autocross events too. Consider joining their events to get more runs in. Check MotorsportReg.com and ClubRegistration.net.
 

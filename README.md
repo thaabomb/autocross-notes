@@ -86,6 +86,7 @@ First, model the suspension.
 Second, choose springs to achieve a 2.2 Hz natural frequency.
 
 Third, set damping to 65% critical in the 0-0.3 in/s range.
+- This doesn't specify if 65% critical should be set for bound or rebound. I'll need to figure that out. Probably bound though.
 
 # Notes from reading _How to Autocross_ by Andrew Howe
 Even though we don't often think of it this way, massive understeer equals losing control of the car.

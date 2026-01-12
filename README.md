@@ -136,3 +136,7 @@ Fast out is more important than fast in.
 
 The Apex Pro app wouldn't let me import data that was recorded by a different app.
 
+Work on improving your balance by doing things like Yoga.
+
+Work on improving your dexterity by attempting simple tasks with your off-hand.
+

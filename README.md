@@ -81,9 +81,9 @@ Also buy a spring rate tester.
 
 Also buy torrington bearings to sit between the springs and the spring perch.
 
-First, model the suspension.
+First, model the suspension, including corner weighting the car and weighing the unsprung mass.
 
-Second, choose springs to achieve a 2.2 Hz natural frequency.
+Second, choose springs to achieve a 2.2 Hz natural frequency in the front and a 2.5 Hz NF in the rear.
 
 Third, set damping to 65% critical in the 0-0.3 in/s range.
 - This doesn't specify if 65% critical should be set for bound or rebound. I'll need to figure that out. Probably bound though.

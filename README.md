@@ -12,7 +12,7 @@ Having redundant video/data recording systems will allow you to capture the run 
 
 The automatic start/stop feature of Harry's Laptimer failed me. I'm 99% confident that I set the start and stop markers correctly but Laptimer terminated the run early for every single run. I should first try using the manual start/stop mode and if that fails I should try a different app.
 
-I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires. I expect the tires were close to the spec pressure but I did not meaure them. Wear patterns suggest that I needed to lower the pressures. 245/40/ZR19 all the way around.
+I was on Hankook Ventus V12 Evo 2 tires. Those are Max Performance Summer tires. I expect the tires were close to the spec pressure but I did not measure them. Wear patterns suggest that I needed to lower the pressures. 245/40/ZR19 all the way around.
 
 The morning session (runs 1-3) was cold (40s or 50s) but the afternoon session (runs 4-6) was warmer (60s or 70s).
 

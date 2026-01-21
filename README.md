@@ -125,6 +125,9 @@ If you see someone go off track (or if all you can see is the cloud of dust they
 
 Watch videos of crashes from your local racetrack to learn what areas to watch out for.
 
+# Notes from reading _Smooth is Fast: Autocross Performance, vol. 2: Grip!_
+Break vehicle responsiveness into two categories: power-on and power-off.
+
 # Thoughts
 Don't forget to have fun.
 

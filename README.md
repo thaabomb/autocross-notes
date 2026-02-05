@@ -129,6 +129,8 @@ Watch videos of crashes from your local racetrack to learn what areas to watch o
 Break vehicle responsiveness into two categories: power-on and power-off.
 
 # Notes from reading NICOClub.com
+https://forums.nicoclub.com/f-a-q-read-here-first-t132642.html
+
 ANDY'S TOP TEN AUTOX DRIVING TIPSBy Andy Hollis(Andy is a multiple National Solo Champion and an instructor for the Evolution Solo School)
 
 Originally posted on Miata.Net

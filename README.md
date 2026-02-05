@@ -128,6 +128,37 @@ Watch videos of crashes from your local racetrack to learn what areas to watch o
 # Notes from reading _Smooth is Fast: Autocross Performance, vol. 2: Grip!_
 Break vehicle responsiveness into two categories: power-on and power-off.
 
+# Notes from reading NICOClub.com
+ANDY'S TOP TEN AUTOX DRIVING TIPSBy Andy Hollis(Andy is a multiple National Solo Champion and an instructor for the Evolution Solo School)
+
+Originally posted on Miata.Net
+
+[Just got back from a weekend of teaching Evolution schools and thought I'd share some stuff that I must have said a thousand times.]
+
+1] Position first, then speed. Positioning the car perfectly is more important than trying to attain the highest potential speed. For example, you will drop more time by correctly positioning the car nearer to slalom cones than you will by adding 1 or 2 MPH in speed. Same with sweepers (tight line). Same with 90-degree turns (use all of the track). Also, position is a prerequisite for speed. If you are not in the correct place, you will not be able go faster. Or at least not for very long!
+
+2] Turn earlier...and less. To go faster, the arc you are running must be bigger. A bigger arc requires less steering. To make a bigger arc that is centered in the same place, the arc must start sooner (turn earlier).
+
+3] Brake earlier...and less. Waiting until the last possible second approaching a turn and then dropping anchor at precisely the correct place so that the desired entry speed is reached exactly as you come to the turn-in point is quite difficult to execute consistently. Especially when you consider that you get no practice runs on the course, and the surface changes on every run, and you aren't likely to be in exactly the same position with the same approach speed on every run, etc. Better to start braking a little earlier to give some margin of error. And by braking less you can either add or subtract braking effort as you close in on the turn-in point. This will make you consistent and smooth.
+
+4] Lift early instead of braking later. Continuing with the philosophy of #3, when you need to reduce speed only a moderate amount, try an early lift of the throttle instead of a later push of the brake. This is less upsetting to the car, is easier to do and thus more consistent, and allows for more precise placement entering the maneuver (remember #1 above).
+
+5] Easier to add speed in a turn than to get rid of it. If you are under the limit, a slight push of the right foot will get you more speed with no additional side effects. On the other hand, if you are too fast and the tires have begun slipping, you can only reduce throttle and wait until the tires turn enough of that excess energy into smoke and heat. Don't use your tires as brakes!
+
+6] Use your right foot to modulate car position in constant radius turns, not the steering wheel. In a steady state turn, once you have established the correct steering input to maintain that arc, lifting the throttle slightly will let the car tuck in closer to the inside cones. Conversely, slightly increasing the throttle will push the car out a bit farther to avoid inside cones. It is much easier to make small corrections in position with slight variations in the tires' slip angle (that's what you are doing with the throttle) than with the steering wheel.
+
+7] Unwind the wheel, then add power. If the car is using all of the tire's tractive capacity to corner, there is none left for additional acceleration. At corner exit, as you unwind the wheel, you make some available. If you do not unwind the wheel, the tire will start to slide and the car will push out (see #6 above).
+
+8] Attack the back. For slaloms (also applicable to most offsets), getting close to the cones is critical for quick times (see #1). To get close, we must move the car less, which means bigger arcs. Bigger arcs come from less steering and require earlier turning (see #2). Now for the fun part... When you go by a slalom cone and start turning the steering wheel back the other way, when does the car start to actually change direction? Answer: When the wheel crosses the center point (Not when you first start turning back!) How long does that take? If you are smooth, it takes .25 - .5 seconds. Now, how long is a typical person's reaction time? Answer: about .5 seconds. Finally, how long does it take to go between slalom cones? Answer: Typically on the order of 1 second. Given all of that, your brain must make the decision to begin turning the steering wheel back the other way just *before* you go by the previous cone!!
+
+Since this is a mental issue, a good visualization technique to get used to this is to think about trying to run over the back side of each slalom cone with the inside rear tire of the car. To hit it with the rear tire (and not the front), the car must be arcing well before the cone and the arc must be shallow. Attack the back!
+
+9] Hands follow the eyes, car follows the hands. 'Nuf said.
+
+10] Scan ahead, don't stare. Keep the eyes moving. Looking ahead does not mean staring ahead. Your eyes must be constantly moving forward and back, and sometimes left and right. Glance forward, glance back. Your brain can only operate on the information you give it.
+
+Bonus Tip: Don't forget the stuff in between the marked maneuvers! Too often we think of a course as series of discrete maneuvers. There is typically more to be gained or lost in the areas that are in between. Pay special attention to the places where there are no cones
+
 # Thoughts
 Don't forget to have fun.
 

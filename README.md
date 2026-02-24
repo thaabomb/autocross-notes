@@ -20,6 +20,8 @@ I need to keep both hands on the wheel. I spent too much time with my right hand
 
 I was attempting to negotiate a hairpin turn and the car was understeering really bad and I'm not sure why. I was turning hard and flooring it but I was at low RPM in 2nd gear so the car wasn't accelerating very much. I'd like to better understand this understeer and prevent it from happening again.
 
+I feel like the car has a throttle response problem at low RPM. I was frequently flat out but the car seemed like it was barely responding.
+
 # Notes from watching Evolution-Autocrosser on YouTube
 You must backside the slalom cones.
 

@@ -161,6 +161,13 @@ Since this is a mental issue, a good visualization technique to get used to this
 
 Bonus Tip: Don't forget the stuff in between the marked maneuvers! Too often we think of a course as series of discrete maneuvers. There is typically more to be gained or lost in the areas that are in between. Pay special attention to the places where there are no cones
 
+# Notes from _Race to Win_ by Derek Daly
+- Use your theoretical best lap as an analysis tool to help improve your driving.
+- If you split a lap/run into sectors, the theoretcal best lap is a hypothetical lap composed of the fastest sector time for each sector.
+- The closer a given lap time is to the theoretical best lap, the faster you were driving and the closer you are to reaching the max of your current potential.
+- The more laps you have that are close to your theoretical max, the more consistent a driver you are.
+- Question though: how do I define "close"? i.e. what constitutes being close to the theoretical fastest lap?
+
 # Thoughts
 Don't forget to have fun.
 
